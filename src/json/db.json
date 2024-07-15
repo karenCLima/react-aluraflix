@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "categoria": "front end",
+      "titulo": "O que faz uma desenvolvedora front-end?",
+      "imagem": "https://i.ytimg.com/vi/ZY3-MFxVdEw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0xl4ufLa9X7N6QnQQp8y_rgppMQ",
+      "url": "https://youtu.be/ZY3-MFxVdEw?si=dQ23aBdUonIzrYlQ",
+      "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio! "
+    },
+    {
+      "id": "2",
+      "categoria": "front end",
+      "titulo": "Árvore Binária de Busca",
+      "imagem": "https://i.ytimg.com/vi/VmKkAQtnjsM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA43N_OQKJCSd0vMRyo1WhC-G_ZGg",
+      "url": "https://youtu.be/VmKkAQtnjsM?si=ww84-hfbUe5q6kSj",
+      "descricao": "Neste vídeo, iniciamos a implementação de uma Árvore Binária de Busca, uma estrutura de dados que favorece a realização de buscas muito eficientes. A árvore binária de busca é um caso particular de árvore binária em que para todo nó da árvore, à esquerda dele temos apenas descendentes de valor inferior e, à direita, superior. Com essa propriedade, podemos dizer que a árvore binária de busca consegue codificar em sua própria forma a ideia por trás da busca binária.Nesse primeiro vídeo sobre o assunto, explicamos o funcionamento da estrutura de dados, abordando o funcionamento da inserção e da busca e algumas propriedades interessantes quanto à altura e balanceamento da árvore. Também implementamos e utilizamos um percurso em ordem simétrica para visualizar os elementos da árvore ordenados."
+    },
+    {
+      "id": "3",
+      "categoria": "front end",
+      "titulo": "O que é e o que faz quem trabalha com UX? User Experience e Usabilidade",
+      "imagem": "https://i.ytimg.com/vi/FJhMCi07T4A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAo9pKkLDDgg609StwWdD0XcbIysQ",
+      "url": "https://youtu.be/FJhMCi07T4A?si=V4B1zYM0RqySY2hb",
+      "descricao": "Chegou o episódio com a musa brasileira de UX, a Carla de Bona! Entenda a Experiência do Usuário e porque ela é importante para qualquer negócio, seja de produtos ou serviços."
+    },
+    {
+      "id": "4",
+      "categoria": "back end",
+      "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei ",
+      "imagem": "https://i.ytimg.com/vi/fiPfvylj6rk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCwogmn2j0Wu2djFHVIe3vEyIAPJw",
+      "url": "https://youtu.be/fiPfvylj6rk?si=ev1_5LiID4Ou1tb6",
+      "descricao": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira?"
+    },
+    {
+      "id": "5",
+      "categoria": "back end",
+      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+      "imagem": "https://i.ytimg.com/vi/6o6-bKOZOEY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDZwM0KL3duRG4oT4aKqTh2GtntIA",
+      "url": "https://youtu.be/6o6-bKOZOEY?si=bP8sjl9VcAxBd4w1",
+      "descricao": "Nesse vídeo vamos aprender um pouco mais o que seria o GitHub CLI e quais são as suas vantagens!"
+    },
+    {
+      "id": "6",
+      "categoria": "back end",
+      "titulo": "Qual é a melhor linguagem de programação?",
+      "imagem": "https://i.ytimg.com/vi/Uh-GNH-t89w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBpus6aa9wq0fbeaGOlBRrJVlW2bQ",
+      "url": "https://youtu.be/Uh-GNH-t89w?si=0X7IfZBDUxbFmFOD",
+      "descricao": "PHP, JavaScript, Python, Java e outras... qual é a melhor? Como surgiram essas linguagens e quais as aplicações e usos de cada uma na aprendizagem e para o mercado? Descubra nesta conversa da Roberta Arcoverde e do Paulo Silveira."
+    },
+    {
+      "id": "7",
+      "categoria": "mobile",
+      "titulo": "Desenvolvimento Android",
+      "imagem": "https://i.ytimg.com/vi/fWscDFHKgw8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDTXBAMz4t7vZJ8OjI-RRhWr5TxsQ",
+      "url": "https://youtu.be/fWscDFHKgw8?si=xKDnk_10L5y_A0ru",
+      "descricao": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais!"
+    },
+    {
+      "id": "8",
+      "categoria": "mobile",
+      "titulo": "React Native EU 2019: Emily Janzer - The New React Native",
+      "imagem": "https://i.ytimg.com/vi/52El0EUI6D0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAYsKKlndtzc9QCAez5-yG_Zg66MQ",
+      "url": "https://youtu.be/52El0EUI6D0?si=3e2QSbbjdOR8mNpm",
+      "descricao": ""
+    },
+    {
+      "id": "9",
+      "categoria": "mobile",
+      "titulo": "Como começar sua primeira app com o Flutter - Hello World",
+      "imagem": "https://i.ytimg.com/vi/xSC8j3gl7xM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAuA-f8KbbTsOiadjIEcHspkvkBcA",
+      "url": "https://youtu.be/xSC8j3gl7xM?si=EYe91zCieAxdYHAw",
+      "descricao": "Chegou a hora de criarmos nosso primeiro aplicativo com o Flutter e entender como fazer tudo funcionar! "
+    }
+  ]
+}
